@@ -1,0 +1,12 @@
+{
+  "name": "builders-circle-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for Stellar WA Builders Circle leaderboard automation",
+  "main": "generate-leaderboard.js",
+  "scripts": {
+    "generate": "node generate-leaderboard.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.2"
+  }
+}

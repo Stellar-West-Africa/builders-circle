@@ -1,0 +1,47 @@
+{
+    "labelPoints": {
+        "bug": 3,
+        "critical": 8,
+        "high-priority": 5,
+        "enhancement": 3,
+        "feature": 5,
+        "documentation": 5,
+        "good-first-issue": 1,
+        "help-wanted": 2,
+        "refactor": 3,
+        "performance": 5,
+        "security": 8,
+        "breaking-change": 8,
+        "ui": 2,
+        "backend": 3,
+        "devops": 4,
+        "testing": 2
+    },
+    "multipliers": {
+        "filesChanged": {
+            "1-3": 1.0,
+            "4-10": 1.2,
+            "11-20": 1.5,
+            "21+": 2.0
+        },
+        "linesChanged": {
+            "1-50": 1.0,
+            "51-200": 1.2,
+            "201-500": 1.5,
+            "501+": 2.0
+        }
+    },
+    "manualOverrides": {
+        "format": "Add PR number as key with custom points",
+        "example": {
+            "123": 10,
+            "456": 15
+        }
+    },
+    "notes": {
+        "labelPoints": "Base points awarded for each label type",
+        "multipliers": "Multipliers based on PR size (files/lines changed)",
+        "manualOverrides": "Team can manually assign points for specific PRs",
+        "calculation": "Final points = max(label points) * multiplier OR manual override if set"
+    }
+}

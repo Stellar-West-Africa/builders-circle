@@ -1,0 +1,20 @@
+{
+    "members": [
+        {
+            "github": "example-user",
+            "name": "John Doe",
+            "joined": "2026-01-20",
+            "status": "active"
+        }
+    ],
+    "notes": {
+        "purpose": "Whitelist of builders circle members whose contributions are tracked",
+        "instructions": "Add new members to this file when they join the builders circle",
+        "fields": {
+            "github": "GitHub username (required)",
+            "name": "Full name (optional)",
+            "joined": "Date joined YYYY-MM-DD (optional)",
+            "status": "active or inactive"
+        }
+    }
+}

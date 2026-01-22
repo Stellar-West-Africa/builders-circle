@@ -1,0 +1,20 @@
+# Node modules
+scripts/node_modules/
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Generated data
+leaderboard-data.json
+
+# System files
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
