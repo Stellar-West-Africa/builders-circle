@@ -98,7 +98,7 @@ See [`config/points.json`](./config/points.json) for complete details.
 To add your project to the showcase:
 
 1. Create a new file: `projects/your-project-name.md`
-2. Follow the [project template](./projects/README.md)
+2. Follow the [project template](./projects/example-project.md)
 3. Submit a PR to this repository
 
 ## Getting Help
