@@ -6,14 +6,6 @@
 
 **Description**: A payment gateway that allows merchants in West Africa to accept payments in Stellar assets with automatic conversion to local currency. Reduces transaction fees and settlement time for cross-border payments.
 
-## Tech Stack
-
-- Language: TypeScript
-- Smart Contracts: Soroban (Rust)
-- Frontend: Next.js, React
-- Backend: Node.js, Express
-- Database: PostgreSQL
-
 ## Repository
 
 **GitHub**: [github.com/example-user/stellar-payment-gateway](https://github.com/example-user/stellar-payment-gateway)  
@@ -44,5 +36,3 @@
 - Email: example@email.com
 
 ---
-
-*Last updated: January 2026*

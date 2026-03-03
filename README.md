@@ -16,7 +16,7 @@ The Builders Circle is a vetted community of developers working on independent p
 |---------|-----------|-------|--------|-------|
 | *Projects will be listed here as builders submit them* | - | - | - | - |
 
-To add your project, see [Project Submission Guide](./projects/README.md)
+To add your project, create a new file in the `projects` sub-directory and use this [project template](./projects/example-project.md) to add your details
 
 ## Top Contributors 🌟
 
