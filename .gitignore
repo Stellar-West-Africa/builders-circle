@@ -6,6 +6,11 @@ node_modules/
 .env
 .env.local
 
+# Scripts (one-off tooling)
+scripts/find-prs.js
+scripts/format-report.js
+scripts/search.js
+
 # Generated data
 leaderboard-data.json
 
