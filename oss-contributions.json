@@ -7,10 +7,41 @@
   "padom2020": [],
   "T-laye": [],
   "egokiemute": [],
-  "JemimahEkong": [],
+  "JemimahEkong": [
+    {
+      "url": "https://github.com/Neko-Protocol/Neko-Oracle-RWA/pull/49",
+      "title": "docs: add contributing guide, code of conduct, and security policy",
+      "repo": "Neko-Protocol/Neko-Oracle-RWA",
+      "merged_at": "2026-03-30T19:41:28Z"
+    },
+    {
+      "url": "https://github.com/ritik4ever/stellar-portfolio-rebalancer/pull/205",
+      "title": "docs: Clean up README rendering and update setup instructions",
+      "repo": "ritik4ever/stellar-portfolio-rebalancer",
+      "merged_at": "2026-03-25T06:30:31Z"
+    }
+  ],
   "arewageek": [],
   "dannyswiss1": [],
   "arowolokehinde": [
+    {
+      "url": "https://github.com/Jagadeeshftw/grainlify/pull/901",
+      "title": "feat: add escrow and program ownership transfer",
+      "repo": "Jagadeeshftw/grainlify",
+      "merged_at": "2026-03-30T13:18:06Z"
+    },
+    {
+      "url": "https://github.com/rinafcode/teachLink_contract/pull/198",
+      "title": "Resolved Issue- Incomplete Implementation (TODO Comments)",
+      "repo": "rinafcode/teachLink_contract",
+      "merged_at": "2026-03-28T08:21:17Z"
+    },
+    {
+      "url": "https://github.com/Stellopay/stellopay-core/pull/355",
+      "title": "feat(withdrawal-timelock): add execution delay with full test suite",
+      "repo": "Stellopay/stellopay-core",
+      "merged_at": "2026-03-24T09:24:09Z"
+    },
     {
       "url": "https://github.com/Stellopay/stellopay-core/pull/253",
       "title": "feat(tests): add concurrent operations test suite .",
@@ -32,6 +63,18 @@
   ],
   "greatAdams01": [],
   "thebabalola": [
+    {
+      "url": "https://github.com/Stellopay/stellopay-core/pull/382",
+      "title": "feat(audit-logger): implement append-only audit trail with tests",
+      "repo": "Stellopay/stellopay-core",
+      "merged_at": "2026-03-28T11:13:29Z"
+    },
+    {
+      "url": "https://github.com/akkuea/akkuea/pull/710",
+      "title": "feat(webapp): add Transaction History component (#692)",
+      "repo": "akkuea/akkuea",
+      "merged_at": "2026-03-22T16:47:24Z"
+    },
     {
       "url": "https://github.com/steller-secure/Stellar-soroban-contracts/pull/47",
       "title": "feat(treasury): enhance event emission for better indexing",
@@ -60,6 +103,18 @@
     }
   ],
   "Gbangbolaoluwagbemiga": [
+    {
+      "url": "https://github.com/Navin-xmr/navin-frontend/pull/116",
+      "title": "completed the implementation of the Shipment Map placeholder and the Payment Detail modal",
+      "repo": "Navin-xmr/navin-frontend",
+      "merged_at": "2026-03-26T16:10:37Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/286",
+      "title": "fix(contract): handle cross-contract failures and add enroll verification to milestone contract",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-25T19:30:14Z"
+    },
     {
       "url": "https://github.com/ritik4ever/stellar-portfolio-rebalancer/pull/74",
       "title": "feat(backend): replace floating-point portfolio math with decimal-safe calculations",
@@ -98,6 +153,30 @@
     }
   ],
   "Uchechukwu-Ekezie": [
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/455",
+      "title": "Add max_total_stake validation during pool creation",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-03-25T08:50:30Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/454",
+      "title": "Implement version tracking in contract storage",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-03-25T08:39:25Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/457",
+      "title": "Add example-interaction script for Soroban CLI",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-03-25T05:13:20Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/456",
+      "title": "Optimize get_outcome_stake to use instance storage for current pool",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-03-25T05:12:45Z"
+    },
     {
       "url": "https://github.com/Jagadeeshftw/grainlify/pull/631",
       "title": "feat: canonical receipt IDs for accounting reconciliation",
@@ -165,6 +244,66 @@
   ],
   "ogazboiz": [
     {
+      "url": "https://github.com/lernza/lernza/pull/591",
+      "title": "fix: validate distribute_reward amount against milestone configured reward",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-28T16:45:12Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/590",
+      "title": "fix: consolidate to single hooks-based toast system",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-28T16:43:26Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/589",
+      "title": "fix: remove duplicate completion-fetching useEffect in quest page",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-28T16:43:10Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/588",
+      "title": "fix: apply 1_000_000 decimal factor consistently in create-quest funding",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-28T16:43:03Z"
+    },
+    {
+      "url": "https://github.com/StreamFi-x/streamfi-frontend/pull/506",
+      "title": "feat: stream discovery and SEO improvements (#366)",
+      "repo": "StreamFi-x/streamfi-frontend",
+      "merged_at": "2026-03-28T11:34:06Z"
+    },
+    {
+      "url": "https://github.com/StreamFi-x/streamfi-frontend/pull/507",
+      "title": "feat(routes-f): creator leaderboard API (#391)",
+      "repo": "StreamFi-x/streamfi-frontend",
+      "merged_at": "2026-03-28T11:33:59Z"
+    },
+    {
+      "url": "https://github.com/StreamFi-x/streamfi-frontend/pull/508",
+      "title": "feat(routes-f): trending clips endpoint (#435)",
+      "repo": "StreamFi-x/streamfi-frontend",
+      "merged_at": "2026-03-28T11:33:52Z"
+    },
+    {
+      "url": "https://github.com/StreamFi-x/streamfi-frontend/pull/509",
+      "title": "feat(routes-f): i18n translation string management endpoint (#442)",
+      "repo": "StreamFi-x/streamfi-frontend",
+      "merged_at": "2026-03-28T11:33:43Z"
+    },
+    {
+      "url": "https://github.com/StellAIverse/stellAIverse-contracts/pull/107",
+      "title": "feat: add AMM contract and rewrite lifecycle manager",
+      "repo": "StellAIverse/stellAIverse-contracts",
+      "merged_at": "2026-03-27T19:23:06Z"
+    },
+    {
+      "url": "https://github.com/StellAIverse/stellAIverse-contracts/pull/106",
+      "title": "feat: finalize governance system and fix atomic transaction journal",
+      "repo": "StellAIverse/stellAIverse-contracts",
+      "merged_at": "2026-03-26T23:01:46Z"
+    },
+    {
       "url": "https://github.com/Jagadeeshftw/grainlify/pull/618",
       "title": "Resolves #557 Add Maintenance Mode Separate from Pause",
       "repo": "Jagadeeshftw/grainlify",
@@ -184,6 +323,12 @@
     }
   ],
   "Birdmannn": [
+    {
+      "url": "https://github.com/Stellopay/stellopay-core/pull/380",
+      "title": "feat(compliance-reporting): add auditable reporting with tests and docs",
+      "repo": "Stellopay/stellopay-core",
+      "merged_at": "2026-03-28T11:13:08Z"
+    },
     {
       "url": "https://github.com/TrustUp-app/TrustUp-Contracts/pull/42",
       "title": "resolved tests and test files",
@@ -211,6 +356,54 @@
   ],
   "davonjagah": [],
   "Obiajulu-gif": [
+    {
+      "url": "https://github.com/Jagadeeshftw/grainlify/pull/978",
+      "title": "test(bounty-escrow): adversarial metadata validation coverage",
+      "repo": "Jagadeeshftw/grainlify",
+      "merged_at": "2026-03-30T13:34:43Z"
+    },
+    {
+      "url": "https://github.com/StellarFlow-Network/stellarflow-backend/pull/100",
+      "title": "Add price validation for market rate fetchers",
+      "repo": "StellarFlow-Network/stellarflow-backend",
+      "merged_at": "2026-03-29T18:42:19Z"
+    },
+    {
+      "url": "https://github.com/zendvolabs/zendvo/pull/194",
+      "title": "Add payment summary utility",
+      "repo": "zendvolabs/zendvo",
+      "merged_at": "2026-03-29T15:11:42Z"
+    },
+    {
+      "url": "https://github.com/StellarFlow-Network/stellarflow-contracts/pull/61",
+      "title": "Emit PriceUpdated oracle event",
+      "repo": "StellarFlow-Network/stellarflow-contracts",
+      "merged_at": "2026-03-28T03:13:14Z"
+    },
+    {
+      "url": "https://github.com/StellarFlow-Network/stellarflow-contracts/pull/31",
+      "title": "Add PriceData storage scaffold",
+      "repo": "StellarFlow-Network/stellarflow-contracts",
+      "merged_at": "2026-03-26T09:29:27Z"
+    },
+    {
+      "url": "https://github.com/StellarFlow-Network/stellarflow-backend/pull/20",
+      "title": "Implement CoinGecko-based GHS price fetcher",
+      "repo": "StellarFlow-Network/stellarflow-backend",
+      "merged_at": "2026-03-25T19:42:14Z"
+    },
+    {
+      "url": "https://github.com/CurrentDao-org/CurrentDao-frontend/pull/56",
+      "title": "Biometric authentication",
+      "repo": "CurrentDao-org/CurrentDao-frontend",
+      "merged_at": "2026-03-25T08:46:26Z"
+    },
+    {
+      "url": "https://github.com/CurrentDao-org/CurrentDao-frontend/pull/54",
+      "title": "Mobile wallet integration",
+      "repo": "CurrentDao-org/CurrentDao-frontend",
+      "merged_at": "2026-03-25T08:43:41Z"
+    },
     {
       "url": "https://github.com/Jagadeeshftw/grainlify/pull/650",
       "title": "Fix/harden input validation human readable identifiers",
@@ -288,6 +481,18 @@
   "donguillotine": [],
   "Emmanex01": [],
   "wheval": [
+    {
+      "url": "https://github.com/ritik4ever/stellar-portfolio-rebalancer/pull/218",
+      "title": "refac: Harden user portfolio listing privacy with JWT owner checks",
+      "repo": "ritik4ever/stellar-portfolio-rebalancer",
+      "merged_at": "2026-03-26T11:36:06Z"
+    },
+    {
+      "url": "https://github.com/Stellopay/stellopay-core/pull/361",
+      "title": "feat(employee-roles): document permission matrix and expand tests",
+      "repo": "Stellopay/stellopay-core",
+      "merged_at": "2026-03-24T09:27:13Z"
+    },
     {
       "url": "https://github.com/boundlessfi/bounties/pull/122",
       "title": "refactor: improve type safety and documentation in bounty mutation hooks",
@@ -427,53 +632,71 @@
       "merged_at": "2024-11-26T13:28:10Z"
     }
   ],
-  "uzochukwuv": [],
-  "eldevode": [],
-  "OWK50GA": [
+  "uzochukwuv": [
     {
-      "url": "https://github.com/OFFER-HUB/offer-hub-monorepo/pull/1073",
-      "title": "implement real github data fetching",
-      "repo": "OFFER-HUB/offer-hub-monorepo",
-      "merged_at": "2026-02-24T06:56:33Z"
+      "url": "https://github.com/Liquifact/Liquifact-contracts/pull/88",
+      "title": "feat(escrow): add safe authorized yield update in open state (#19)",
+      "repo": "Liquifact/Liquifact-contracts",
+      "merged_at": "2026-03-27T17:51:25Z"
     },
     {
-      "url": "https://github.com/akkuea/akkuea/pull/707",
-      "title": "feat: added borrow function to contract with tests",
-      "repo": "akkuea/akkuea",
-      "merged_at": "2026-02-23T22:57:13Z"
+      "url": "https://github.com/Pulsefy/Lumenpulse/pull/483",
+      "title": "feat: implement PostgreSQL database for historical data backfill & warehousing (#456)",
+      "repo": "Pulsefy/Lumenpulse",
+      "merged_at": "2026-03-27T09:45:29Z"
     },
     {
-      "url": "https://github.com/OFFER-HUB/offer-hub-monorepo/pull/983",
-      "title": "feat: implement task_records by client id",
-      "repo": "OFFER-HUB/offer-hub-monorepo",
-      "merged_at": "2026-01-28T01:37:26Z"
+      "url": "https://github.com/Liquifact/Liquifact-contracts/pull/76",
+      "title": "#20 test(escrow): add full state transition matrix regression coverage",
+      "repo": "Liquifact/Liquifact-contracts",
+      "merged_at": "2026-03-25T06:52:38Z"
     },
     {
-      "url": "https://github.com/akkuea/akkuea/pull/674",
-      "title": "feat: implement AdminControl module with transfer & tests",
-      "repo": "akkuea/akkuea",
-      "merged_at": "2026-01-26T16:24:57Z"
+      "url": "https://github.com/Liquifact/Liquifact-contracts/pull/75",
+      "title": "#25 feat(escrow): add authorized unpause operation",
+      "repo": "Liquifact/Liquifact-contracts",
+      "merged_at": "2026-03-25T06:51:22Z"
     },
     {
-      "url": "https://github.com/StreamFi-x/streamfi-frontend/pull/136",
-      "title": "Feat: Created Reusable Components for StreamFI",
-      "repo": "StreamFi-x/streamfi-frontend",
-      "merged_at": "2025-06-04T08:27:39Z"
-    },
-    {
-      "url": "https://github.com/StreamFi-x/streamfi-contracts/pull/2",
-      "title": "Feat: Transfer Tokens Function to Another Address",
-      "repo": "StreamFi-x/streamfi-contracts",
-      "merged_at": "2025-05-02T06:16:56Z"
-    },
-    {
-      "url": "https://github.com/PayStell/paystell-backend/pull/20",
-      "title": "Feat/webhook services",
-      "repo": "PayStell/paystell-backend",
-      "merged_at": "2025-02-18T18:36:09Z"
+      "url": "https://github.com/Liquifact/Liquifact-contracts/pull/74",
+      "title": "feat(escrow): allow SME withdrawal after funding completion",
+      "repo": "Liquifact/Liquifact-contracts",
+      "merged_at": "2026-03-25T06:50:15Z"
     }
   ],
+  "eldevode": [],
+  "OWK50GA": [],
   "xqcxx": [
+    {
+      "url": "https://github.com/StreamFi-x/streamfi-frontend/pull/475",
+      "title": "feat(routes-f): add queue, highlights, cache, and geo endpoints",
+      "repo": "StreamFi-x/streamfi-frontend",
+      "merged_at": "2026-03-27T21:10:12Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/278",
+      "title": "feat(contracts): implement enrollee progress tracking",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-25T18:14:06Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/279",
+      "title": "feat(contracts): add quest enrollment cap",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-25T18:13:56Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/277",
+      "title": "feat(frontend): implement quest progress tracking visualization",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-25T18:03:13Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/276",
+      "title": "ci: add frontend bundle size tracking",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-25T17:41:02Z"
+    },
     {
       "url": "https://github.com/StellAIverse/luminarytrade/pull/130",
       "title": "Implement Liquidity Pool Integration for Scoring",
@@ -487,9 +710,22 @@
       "merged_at": "2026-01-23T18:15:21Z"
     }
   ],
-  "ebukamoses": [],
+  "ebukamoses": [
+    {
+      "url": "https://github.com/lernza/lernza/pull/152",
+      "title": "test(contracts): add edge case tests for all contracts",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-25T21:14:03Z"
+    }
+  ],
   "osas2211": [],
   "Marvy247": [
+    {
+      "url": "https://github.com/MentorsMind/MentorsMind-Frontend/pull/119",
+      "title": "feat: Post-Session Review Prompt (#83)",
+      "repo": "MentorsMind/MentorsMind-Frontend",
+      "merged_at": "2026-03-26T19:20:01Z"
+    },
     {
       "url": "https://github.com/kindfi-org/kindfi/pull/341",
       "title": "feature-learning-paths",
@@ -503,68 +739,7 @@
       "merged_at": "2025-05-05T05:01:54Z"
     }
   ],
-  "Jemiiah": [
-    {
-      "url": "https://github.com/Neko-Protocol/neko-contracts/pull/21",
-      "title": "refactor(rwa-oracle): add two-step admin transfer",
-      "repo": "Neko-Protocol/neko-contracts",
-      "merged_at": "2026-02-26T17:43:44Z"
-    },
-    {
-      "url": "https://github.com/steller-secure/Stellar-soroban-contracts/pull/81",
-      "title": "feat: Implemented Cross-Chain Interoperability",
-      "repo": "steller-secure/Stellar-soroban-contracts",
-      "merged_at": "2026-02-20T18:02:33Z"
-    },
-    {
-      "url": "https://github.com/Web3Novalabs/Nevo/pull/39",
-      "title": "feat: supports custom metadata for donation pools",
-      "repo": "Web3Novalabs/Nevo",
-      "merged_at": "2026-01-25T14:18:03Z"
-    },
-    {
-      "url": "https://github.com/Web3Novalabs/Nevo/pull/34",
-      "title": "  Implement Emergency Pause/Unpause Functionality",
-      "repo": "Web3Novalabs/Nevo",
-      "merged_at": "2026-01-22T19:45:33Z"
-    },
-    {
-      "url": "https://github.com/SafeVault/vestroll/pull/166",
-      "title": "feat: implement team management empty & populated states (#142)",
-      "repo": "SafeVault/vestroll",
-      "merged_at": "2025-10-07T17:02:13Z"
-    },
-    {
-      "url": "https://github.com/safetrustcr/frontend-SafeTrust/pull/190",
-      "title": "feat: implememnt `Light/Dark` with `next/theme` over custom",
-      "repo": "safetrustcr/frontend-SafeTrust",
-      "merged_at": "2025-03-30T19:46:10Z"
-    },
-    {
-      "url": "https://github.com/kindfi-org/kindfi/pull/261",
-      "title": "feat: Broke down TeamMembersPage into smaller reusable components",
-      "repo": "kindfi-org/kindfi",
-      "merged_at": "2025-03-04T00:13:47Z"
-    },
-    {
-      "url": "https://github.com/PayStell/paystell-backend/pull/42",
-      "title": "feat: Enhance Error Logging System",
-      "repo": "PayStell/paystell-backend",
-      "merged_at": "2025-02-28T22:59:01Z"
-    },
-    {
-      "url": "https://github.com/safetrustcr/frontend-SafeTrust/pull/154",
-      "title": "Integrate user query with the UI",
-      "repo": "safetrustcr/frontend-SafeTrust",
-      "merged_at": "2024-12-25T17:20:56Z"
-    },
-    {
-      "url": "https://github.com/Trustless-Work/dApp-Trustless-Work/pull/75",
-      "title": "create page for dashboard ",
-      "repo": "Trustless-Work/dApp-Trustless-Work",
-      "merged_at": "2024-12-20T15:21:53Z"
-    }
-  ],
+  "Jemiiah": [],
   "big14way": [
     {
       "url": "https://github.com/Stellopay/stellopay-frontend/pull/142",
@@ -604,6 +779,18 @@
     }
   ],
   "Wilfred007": [
+    {
+      "url": "https://github.com/StreamFi-x/streamfi-frontend/pull/547",
+      "title": "implemented frontend and dispute resolution documentation",
+      "repo": "StreamFi-x/streamfi-frontend",
+      "merged_at": "2026-03-30T08:21:15Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/400",
+      "title": "feat: modernize quest platform and resolve CI/CD blockers",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-26T18:02:47Z"
+    },
     {
       "url": "https://github.com/Lead-Studios/veritix-web/pull/37",
       "title": "Fix: Created the animated Hero Section according to the design",
@@ -709,7 +896,44 @@
       "merged_at": "2025-02-25T03:01:07Z"
     }
   ],
-  "utilitycoder": [],
+  "utilitycoder": [
+    {
+      "url": "https://github.com/Web3Novalabs/Nevo/pull/254",
+      "title": "Add ContractUpgraded event",
+      "repo": "Web3Novalabs/Nevo",
+      "merged_at": "2026-03-29T12:02:32Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/Nevo/pull/252",
+      "title": "Implement buy_ticket storage updates",
+      "repo": "Web3Novalabs/Nevo",
+      "merged_at": "2026-03-29T12:02:19Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/Nevo/pull/251",
+      "title": "Define withdraw_event_funds interface",
+      "repo": "Web3Novalabs/Nevo",
+      "merged_at": "2026-03-29T12:02:09Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/Nevo/pull/253",
+      "title": "Add StorageKey::Event variant",
+      "repo": "Web3Novalabs/Nevo",
+      "merged_at": "2026-03-27T14:30:56Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/211",
+      "title": "feat: add company suspension and reactivation controls (closes #167)",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2026-03-27T09:24:17Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/210",
+      "title": "feat: implement shipment finalization lock (closes #178)",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2026-03-27T09:03:41Z"
+    }
+  ],
   "dadadave80": [],
   "JayWebtech": [
     {
@@ -723,12 +947,6 @@
       "title": "chore: activity badge",
       "repo": "Jagadeeshftw/grainlify",
       "merged_at": "2026-01-24T13:07:08Z"
-    },
-    {
-      "url": "https://github.com/zendvolabs/zendvolandingpage/pull/3",
-      "title": "feat : hero and intro section",
-      "repo": "zendvolabs/zendvolandingpage",
-      "merged_at": "2026-01-24T11:02:14Z"
     },
     {
       "url": "https://github.com/Facil-Pay/facilpay-api/pull/7",
@@ -807,6 +1025,48 @@
   ],
   "ONEONUORA": [
     {
+      "url": "https://github.com/lernza/lernza/pull/399",
+      "title": "feat: quest update function for name, description, and visibility, ad…",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-03-26T14:42:48Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/464",
+      "title": "feat: CATEGORY_OTHER for non-standard pool categories",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-03-26T14:26:34Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/209",
+      "title": "feat: shipment replay-protection nonce for external integrations,  di…",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2026-03-26T11:29:12Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/463",
+      "title": "feat: Add re-entrancy guard to claim_winnings",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-03-26T09:19:47Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/207",
+      "title": "feat: add  shipment note hash append-only log",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2026-03-25T20:41:20Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/462",
+      "title": "feat: Add creator to PoolCreatedEvent",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-03-25T17:43:19Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/459",
+      "title": "feat: min_pool_duration as a configurable parameter",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-03-25T17:26:29Z"
+    },
+    {
       "url": "https://github.com/Web3Novalabs/predifi/pull/383",
       "title": "feat: Implement Multi-Signature Resolution Logic:",
       "repo": "Web3Novalabs/predifi",
@@ -819,10 +1079,22 @@
       "merged_at": "2026-02-23T13:33:18Z"
     },
     {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/120",
+      "title": "Implement admin transfer (ownership transfer)",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2026-02-23T13:16:12Z"
+    },
+    {
       "url": "https://github.com/Web3Novalabs/predifi/pull/353",
       "title": "feat:add Cross-Network Deployment Scripts",
       "repo": "Web3Novalabs/predifi",
       "merged_at": "2026-02-21T18:44:39Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/69",
+      "title": "feat: add the event emission module (Hash-and-Emit core)",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2026-02-21T13:54:33Z"
     },
     {
       "url": "https://github.com/Web3Novalabs/Paymesh-stellr/pull/81",
@@ -841,6 +1113,30 @@
       "title": "Error types",
       "repo": "Web3Novalabs/predifi",
       "merged_at": "2026-02-20T15:14:56Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-frontend/pull/40",
+      "title": "feat: add dashboard structure and rebranded dashboard home page",
+      "repo": "Navin-xmr/navin-frontend",
+      "merged_at": "2026-02-20T10:34:43Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-frontend/pull/36",
+      "title": "feat: add forgot password page",
+      "repo": "Navin-xmr/navin-frontend",
+      "merged_at": "2026-02-19T21:33:54Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-frontend/pull/34",
+      "title": "feat: add login page",
+      "repo": "Navin-xmr/navin-frontend",
+      "merged_at": "2026-02-19T20:19:58Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-frontend/pull/33",
+      "title": "feat: add signup page",
+      "repo": "Navin-xmr/navin-frontend",
+      "merged_at": "2026-02-19T19:14:33Z"
     },
     {
       "url": "https://github.com/Web3Novalabs/predifi/pull/340",
@@ -905,6 +1201,18 @@
   ],
   "rosemary21": [
     {
+      "url": "https://github.com/Pulsefy/Lumenpulse/pull/481",
+      "title": "time-series",
+      "repo": "Pulsefy/Lumenpulse",
+      "merged_at": "2026-03-28T15:58:21Z"
+    },
+    {
+      "url": "https://github.com/EarnQuestOne/stellar_Earn/pull/200",
+      "title": "feature-comprehensive-logging",
+      "repo": "EarnQuestOne/stellar_Earn",
+      "merged_at": "2026-03-27T12:17:54Z"
+    },
+    {
       "url": "https://github.com/rinafcode/teachLink_mobile/pull/34",
       "title": "mobile-authenti",
       "repo": "rinafcode/teachLink_mobile",
@@ -936,9 +1244,46 @@
     }
   ],
   "SamuelAdex": [],
-  "Junman140": [],
+  "Junman140": [
+    {
+      "url": "https://github.com/StellarFlow-Network/stellarflow-contracts/pull/52",
+      "title": "refactor: update price oracle",
+      "repo": "StellarFlow-Network/stellarflow-contracts",
+      "merged_at": "2026-03-27T11:47:49Z"
+    },
+    {
+      "url": "https://github.com/Pulsefy/QiuckEx/pull/183",
+      "title": "Main",
+      "repo": "Pulsefy/QiuckEx",
+      "merged_at": "2026-03-24T22:14:28Z"
+    }
+  ],
   "praiseekoja": [],
   "anonfedora": [
+    {
+      "url": "https://github.com/Facil-Pay/facilpay-contracts/pull/60",
+      "title": "feat(escrow): implement multi-party escrows with approval threshold and proportional release",
+      "repo": "Facil-Pay/facilpay-contracts",
+      "merged_at": "2026-03-27T19:58:28Z"
+    },
+    {
+      "url": "https://github.com/Jagadeeshftw/grainlify/pull/858",
+      "title": "feat(grainlify-core): governance proposal and voting tests",
+      "repo": "Jagadeeshftw/grainlify",
+      "merged_at": "2026-03-26T10:23:14Z"
+    },
+    {
+      "url": "https://github.com/CurrentDao-org/CurrentDao-contracts/pull/58",
+      "title": "feat(#33): add yield farming & staking contract",
+      "repo": "CurrentDao-org/CurrentDao-contracts",
+      "merged_at": "2026-03-24T22:36:15Z"
+    },
+    {
+      "url": "https://github.com/Stellopay/stellopay-core/pull/296",
+      "title": "feat: Badge Agreement Creation",
+      "repo": "Stellopay/stellopay-core",
+      "merged_at": "2026-03-04T14:55:43Z"
+    },
     {
       "url": "https://github.com/kindfi-org/kindfi/pull/815",
       "title": "feat(web): improve error handling in getUserStats",
@@ -958,6 +1303,12 @@
       "merged_at": "2026-02-25T19:52:51Z"
     },
     {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/149",
+      "title": "test: Integration test for shipment lifecycle",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2026-02-25T17:47:04Z"
+    },
+    {
       "url": "https://github.com/Jagadeeshftw/grainlify/pull/545",
       "title": "test: Governance Voting",
       "repo": "Jagadeeshftw/grainlify",
@@ -968,6 +1319,18 @@
       "title": "feat: Fund distribution",
       "repo": "Web3Novalabs/Paymesh-stellr",
       "merged_at": "2026-02-23T14:49:31Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/112",
+      "title": "feat: Multi-carrier shipment handoff",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2026-02-22T18:46:55Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/111",
+      "title": "feat: Integrate Token Contract",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2026-02-22T15:23:39Z"
     },
     {
       "url": "https://github.com/Jagadeeshftw/grainlify/pull/442",
@@ -986,6 +1349,12 @@
       "title": "feat: Escrow logic",
       "repo": "Pulsefy/QiuckEx",
       "merged_at": "2026-02-21T13:37:23Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/67",
+      "title": "feat: Confirm Delivery",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2026-02-21T12:23:18Z"
     },
     {
       "url": "https://github.com/rinafcode/teachLink_contract/pull/110",
@@ -1078,6 +1447,12 @@
       "merged_at": "2025-06-05T21:52:23Z"
     },
     {
+      "url": "https://github.com/Navin-xmr/navin-contracts/pull/1",
+      "title": "feat: example stellar contract initialization",
+      "repo": "Navin-xmr/navin-contracts",
+      "merged_at": "2025-05-12T19:00:00Z"
+    },
+    {
       "url": "https://github.com/akkuea/akkuea/pull/82",
       "title": "feat: contributor reputation contract",
       "repo": "akkuea/akkuea",
@@ -1096,7 +1471,20 @@
       "merged_at": "2025-02-02T10:53:20Z"
     }
   ],
-  "idrhas": [],
+  "idrhas": [
+    {
+      "url": "https://github.com/Pulsefy/Soter/pull/223",
+      "title": "test: add comprehensive mobile unit and integration tests (closes #189)",
+      "repo": "Pulsefy/Soter",
+      "merged_at": "2026-03-28T15:35:55Z"
+    },
+    {
+      "url": "https://github.com/Dfunder/contract-fox/pull/20",
+      "title": "feat: integrate stellar-strkey for key validation (closes #7)",
+      "repo": "Dfunder/contract-fox",
+      "merged_at": "2026-03-04T15:29:04Z"
+    }
+  ],
   "truthixify": [
     {
       "url": "https://github.com/OFFER-HUB/offer-hub-monorepo/pull/1091",
@@ -1162,6 +1550,30 @@
   "nerdjango": [],
   "OSEH-svg": [
     {
+      "url": "https://github.com/zendvolabs/zendvo/pull/196",
+      "title": "feat: implement refund service (#165)",
+      "repo": "zendvolabs/zendvo",
+      "merged_at": "2026-03-30T09:26:30Z"
+    },
+    {
+      "url": "https://github.com/MentorsMind/MentorsMind-Frontend/pull/184",
+      "title": "feat: implement Staking interface (#136)",
+      "repo": "MentorsMind/MentorsMind-Frontend",
+      "merged_at": "2026-03-30T05:17:19Z"
+    },
+    {
+      "url": "https://github.com/Nexacore-Org/NexaFx-backend/pull/282",
+      "title": "feat: implement currency swap using Stellar path payments",
+      "repo": "Nexacore-Org/NexaFx-backend",
+      "merged_at": "2026-03-28T20:08:51Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-frontend/pull/102",
+      "title": "feat: pixel-perfect dashboard UI refresh - sidebar, topbar, mobile la…",
+      "repo": "Navin-xmr/navin-frontend",
+      "merged_at": "2026-02-26T08:53:19Z"
+    },
+    {
       "url": "https://github.com/StellAIverse/stellAIverse-contracts/pull/77",
       "title": "feat: implement formal verification framework (Issue #59)",
       "repo": "StellAIverse/stellAIverse-contracts",
@@ -1178,6 +1590,12 @@
       "title": "feat: Enforce Asset Registration Before Setting Metadata",
       "repo": "Neko-Protocol/neko-contracts",
       "merged_at": "2026-02-26T03:38:56Z"
+    },
+    {
+      "url": "https://github.com/Navin-xmr/navin-frontend/pull/101",
+      "title": "feat: delivery proof upload section",
+      "repo": "Navin-xmr/navin-frontend",
+      "merged_at": "2026-02-26T01:29:28Z"
     },
     {
       "url": "https://github.com/safetrustcr/landing-SafeTrust/pull/144",
