@@ -1,7 +1,7 @@
 # Builders Circle — OSS Contributions
 
 > Auto-generated on 2026-03-31
-> **265 merged PRs** from **28** contributing members (out of 55 total)
+> **265 merged PRs**
 
 ---
 
