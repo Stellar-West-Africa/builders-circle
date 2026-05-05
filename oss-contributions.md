@@ -1,7 +1,7 @@
 # Builders Circle — OSS Contributions
 
-> Auto-generated on 2026-03-31
-> **265 merged PRs**
+> Auto-generated on 2026-05-05
+> **297 merged PRs** from **30** contributing members (out of 55 total)
 
 ---
 
@@ -9,39 +9,42 @@
 
 | # | GitHub Handle | Total PRs |
 |---|-------------|----------|
-| 1 | [@anonfedora](https://github.com/anonfedora) | 35 |
-| 2 | [@ONEONUORA](https://github.com/ONEONUORA) | 29 |
-| 3 | [@wheval](https://github.com/wheval) | 25 |
-| 4 | [@Obiajulu-gif](https://github.com/Obiajulu-gif) | 20 |
-| 5 | [@OSEH-svg](https://github.com/OSEH-svg) | 20 |
+| 1 | [@anonfedora](https://github.com/anonfedora) | 41 |
+| 2 | [@ONEONUORA](https://github.com/ONEONUORA) | 32 |
+| 3 | [@wheval](https://github.com/wheval) | 26 |
+| 4 | [@Obiajulu-gif](https://github.com/Obiajulu-gif) | 23 |
+| 5 | [@OSEH-svg](https://github.com/OSEH-svg) | 23 |
 | 6 | [@Oshioke-Salaki](https://github.com/Oshioke-Salaki) | 15 |
-| 7 | [@ogazboiz](https://github.com/ogazboiz) | 13 |
+| 7 | [@ogazboiz](https://github.com/ogazboiz) | 14 |
 | 8 | [@Uchechukwu-Ekezie](https://github.com/Uchechukwu-Ekezie) | 11 |
 | 9 | [@truthixify](https://github.com/truthixify) | 10 |
-| 10 | [@Gbangbolaoluwagbemiga](https://github.com/Gbangbolaoluwagbemiga) | 8 |
-| 11 | [@JayWebtech](https://github.com/JayWebtech) | 8 |
-| 12 | [@xqcxx](https://github.com/xqcxx) | 7 |
-| 13 | [@rosemary21](https://github.com/rosemary21) | 7 |
-| 14 | [@arowolokehinde](https://github.com/arowolokehinde) | 6 |
-| 15 | [@big14way](https://github.com/big14way) | 6 |
-| 16 | [@utilitycoder](https://github.com/utilitycoder) | 6 |
-| 17 | [@Sandijigs](https://github.com/Sandijigs) | 6 |
-| 18 | [@Birdmannn](https://github.com/Birdmannn) | 5 |
-| 19 | [@uzochukwuv](https://github.com/uzochukwuv) | 5 |
-| 20 | [@thebabalola](https://github.com/thebabalola) | 4 |
-| 21 | [@Wilfred007](https://github.com/Wilfred007) | 4 |
-| 22 | [@Anuoluwapo25](https://github.com/Anuoluwapo25) | 3 |
+| 10 | [@arowolokehinde](https://github.com/arowolokehinde) | 9 |
+| 11 | [@Gbangbolaoluwagbemiga](https://github.com/Gbangbolaoluwagbemiga) | 9 |
+| 12 | [@JayWebtech](https://github.com/JayWebtech) | 9 |
+| 13 | [@rosemary21](https://github.com/rosemary21) | 9 |
+| 14 | [@xqcxx](https://github.com/xqcxx) | 7 |
+| 15 | [@uzochukwuv](https://github.com/uzochukwuv) | 6 |
+| 16 | [@big14way](https://github.com/big14way) | 6 |
+| 17 | [@utilitycoder](https://github.com/utilitycoder) | 6 |
+| 18 | [@Sandijigs](https://github.com/Sandijigs) | 6 |
+| 19 | [@thebabalola](https://github.com/thebabalola) | 5 |
+| 20 | [@Anuoluwapo25](https://github.com/Anuoluwapo25) | 5 |
+| 21 | [@Birdmannn](https://github.com/Birdmannn) | 5 |
+| 22 | [@Wilfred007](https://github.com/Wilfred007) | 4 |
 | 23 | [@Marvy247](https://github.com/Marvy247) | 3 |
-| 24 | [@JemimahEkong](https://github.com/JemimahEkong) | 2 |
-| 25 | [@Belloabraham121](https://github.com/Belloabraham121) | 2 |
-| 26 | [@Junman140](https://github.com/Junman140) | 2 |
-| 27 | [@idrhas](https://github.com/idrhas) | 2 |
-| 28 | [@ebukamoses](https://github.com/ebukamoses) | 1 |
+| 24 | [@PatrickKish1](https://github.com/PatrickKish1) | 2 |
+| 25 | [@JemimahEkong](https://github.com/JemimahEkong) | 2 |
+| 26 | [@Belloabraham121](https://github.com/Belloabraham121) | 2 |
+| 27 | [@ebukamoses](https://github.com/ebukamoses) | 2 |
+| 28 | [@Junman140](https://github.com/Junman140) | 2 |
+| 29 | [@idrhas](https://github.com/idrhas) | 2 |
+| 30 | [@dannyswiss1](https://github.com/dannyswiss1) | 1 |
 
 ## Monthly Totals
 
 | Month | Total PRs | Contributing Members |
 |-------|----------|---------------------|
+| April 2026 | 32 | 16 |
 | March 2026 | 75 | 21 |
 | February 2026 | 76 | 17 |
 | January 2026 | 46 | 15 |
@@ -57,6 +60,143 @@
 | January 2025 | 1 | 1 |
 | December 2024 | 2 | 1 |
 | November 2024 | 1 | 1 |
+
+---
+
+## April 2026 — 32 PR(s) from 16 member(s)
+
+| # | Contributor | PRs this month |
+|---|-----------|---------------|
+| 1 | [@anonfedora](https://github.com/anonfedora) | 6 |
+| 2 | [@arowolokehinde](https://github.com/arowolokehinde) | 3 |
+| 3 | [@Obiajulu-gif](https://github.com/Obiajulu-gif) | 3 |
+| 4 | [@ONEONUORA](https://github.com/ONEONUORA) | 3 |
+| 5 | [@OSEH-svg](https://github.com/OSEH-svg) | 3 |
+| 6 | [@PatrickKish1](https://github.com/PatrickKish1) | 2 |
+| 7 | [@Anuoluwapo25](https://github.com/Anuoluwapo25) | 2 |
+| 8 | [@rosemary21](https://github.com/rosemary21) | 2 |
+| 9 | [@dannyswiss1](https://github.com/dannyswiss1) | 1 |
+| 10 | [@thebabalola](https://github.com/thebabalola) | 1 |
+| 11 | [@Gbangbolaoluwagbemiga](https://github.com/Gbangbolaoluwagbemiga) | 1 |
+| 12 | [@ogazboiz](https://github.com/ogazboiz) | 1 |
+| 13 | [@wheval](https://github.com/wheval) | 1 |
+| 14 | [@uzochukwuv](https://github.com/uzochukwuv) | 1 |
+| 15 | [@ebukamoses](https://github.com/ebukamoses) | 1 |
+| 16 | [@JayWebtech](https://github.com/JayWebtech) | 1 |
+
+### [@anonfedora](https://github.com/anonfedora) — 6 PR(s)
+
+**Facil-Pay/facilpay-contracts**
+- [feature:partial payment, fraud detection](https://github.com/Facil-Pay/facilpay-contracts/pull/175) _(2026-04-28)_
+
+**Web3Novalabs/predifi**
+- [Feature/get supported tokens](https://github.com/Web3Novalabs/predifi/pull/579) _(2026-04-24)_
+- [feature: auto-cancel overdue pools](https://github.com/Web3Novalabs/predifi/pull/578) _(2026-04-24)_
+- [feature: max_predictions per user](https://github.com/Web3Novalabs/predifi/pull/577) _(2026-04-24)_
+- [test: claim_winnings](https://github.com/Web3Novalabs/predifi/pull/576) _(2026-04-24)_
+
+**Liquifact/Liquifact-contracts**
+- [feat: Escrow single init guard](https://github.com/Liquifact/Liquifact-contracts/pull/138) _(2026-04-01)_
+
+### [@arowolokehinde](https://github.com/arowolokehinde) — 3 PR(s)
+
+**rinafcode/teachLink_contract**
+- [fix(errors): standardize error handling patterns across modules](https://github.com/rinafcode/teachLink_contract/pull/464) _(2026-04-27)_
+- [Fix/vector memory safety 248](https://github.com/rinafcode/teachLink_contract/pull/412) _(2026-04-24)_
+- [feat(tests): add comprehensive cross-module integration tests (#275)](https://github.com/rinafcode/teachLink_contract/pull/411) _(2026-04-24)_
+
+### [@Obiajulu-gif](https://github.com/Obiajulu-gif) — 3 PR(s)
+
+**safetrustcr/frontend-SafeTrust**
+- [feat(auth): add dark mode support to ForgotPasswordForm](https://github.com/safetrustcr/frontend-SafeTrust/pull/335) _(2026-04-29)_
+
+**Facil-Pay/facilpay-contracts**
+- [feat(refund): add structured refund reason codes and analytics](https://github.com/Facil-Pay/facilpay-contracts/pull/159) _(2026-04-26)_
+
+**safetrustcr/dApp-SafeTrust**
+- [Feat/hotel listing route placeholder](https://github.com/safetrustcr/dApp-SafeTrust/pull/93) _(2026-04-03)_
+
+### [@ONEONUORA](https://github.com/ONEONUORA) — 3 PR(s)
+
+**Facil-Pay/facilpay-contracts**
+- [feat: arbitration fee distribution](https://github.com/Facil-Pay/facilpay-contracts/pull/164) _(2026-04-26)_
+
+**Web3Novalabs/predifi**
+- [feat: Extract Internal Constants to Dedicated Module](https://github.com/Web3Novalabs/predifi/pull/542) _(2026-04-22)_
+- [feat: add get_version Query Function](https://github.com/Web3Novalabs/predifi/pull/541) _(2026-04-22)_
+
+### [@OSEH-svg](https://github.com/OSEH-svg) — 3 PR(s)
+
+**safetrustcr/frontend-SafeTrust**
+- [Feat/330 adapt buildings illustration dark mode](https://github.com/safetrustcr/frontend-SafeTrust/pull/336) _(2026-04-29)_
+- [feat(escrow): complete dark mode audit for EscrowDashboard (#286)](https://github.com/safetrustcr/frontend-SafeTrust/pull/304) _(2026-04-25)_
+
+**ritik4ever/stellar-portfolio-rebalancer**
+- [Add AppErrorBoundary unit tests for fallback UI, Sentry capture, rese…](https://github.com/ritik4ever/stellar-portfolio-rebalancer/pull/375) _(2026-04-29)_
+
+### [@PatrickKish1](https://github.com/PatrickKish1) — 2 PR(s)
+
+**safetrustcr/backend-SafeTrust**
+- [feat: PATCH /api/bid-requests/:id accept/reject offer (closes #345)](https://github.com/safetrustcr/backend-SafeTrust/pull/351) _(2026-04-28)_
+
+**akkuea/akkuea**
+- [fix(api): remove N+1 on property listing (join owner)](https://github.com/akkuea/akkuea/pull/792) _(2026-04-24)_
+
+### [@Anuoluwapo25](https://github.com/Anuoluwapo25) — 2 PR(s)
+
+**lernza/lernza**
+- [feat: lighthouse ci for tracking](https://github.com/lernza/lernza/pull/830) _(2026-04-28)_
+
+**Nexacore-Org/ByteChain-Academy**
+- [feat(backend): add comprehensive Swagger/OpenAPI decorators to controllers and DTOs](https://github.com/Nexacore-Org/ByteChain-Academy/pull/304) _(2026-04-28)_
+
+### [@rosemary21](https://github.com/rosemary21) — 2 PR(s)
+
+**rinafcode/teachLink_mobile**
+- [No-Pre-commit-Hooks](https://github.com/rinafcode/teachLink_mobile/pull/169) _(2026-04-28)_
+
+**rinafcode/teachLink_backend**
+- [Alerting-Rules](https://github.com/rinafcode/teachLink_backend/pull/380) _(2026-04-26)_
+
+### [@dannyswiss1](https://github.com/dannyswiss1) — 1 PR(s)
+
+**lernza/lernza**
+- [feat: lernza docs and features modification](https://github.com/lernza/lernza/pull/825) _(2026-04-28)_
+
+### [@thebabalola](https://github.com/thebabalola) — 1 PR(s)
+
+**Stellopay/stellopay-core**
+- [feat: add deterministic rule evaluation traces for audits](https://github.com/Stellopay/stellopay-core/pull/430) _(2026-04-26)_
+
+### [@Gbangbolaoluwagbemiga](https://github.com/Gbangbolaoluwagbemiga) — 1 PR(s)
+
+**Web3Novalabs/Paymesh-stellr**
+- [Payment group tests and create/remove entrypoints](https://github.com/Web3Novalabs/Paymesh-stellr/pull/274) _(2026-04-23)_
+
+### [@ogazboiz](https://github.com/ogazboiz) — 1 PR(s)
+
+**lernza/lernza**
+- [feat(contracts): platform stats, refund_unused_pool, certificate metadata update, owner-gated revocation](https://github.com/lernza/lernza/pull/823) _(2026-04-28)_
+
+### [@wheval](https://github.com/wheval) — 1 PR(s)
+
+**boundlessfi/bounties**
+- [feat(bounty): add FCFS single-claim flow with claim/approve UI and cl…](https://github.com/boundlessfi/bounties/pull/161) _(2026-04-23)_
+
+### [@uzochukwuv](https://github.com/uzochukwuv) — 1 PR(s)
+
+**rinafcode/teachLink_contract**
+- [Feat/issue 167 gas benchmarking](https://github.com/rinafcode/teachLink_contract/pull/201) _(2026-04-01)_
+
+### [@ebukamoses](https://github.com/ebukamoses) — 1 PR(s)
+
+**akkuea/akkuea**
+- [API TypeScript type checking silenced with || true in CI](https://github.com/akkuea/akkuea/pull/796) _(2026-04-25)_
+
+### [@JayWebtech](https://github.com/JayWebtech) — 1 PR(s)
+
+**Web3Novalabs/Nevo**
+- [Drips issue](https://github.com/Web3Novalabs/Nevo/pull/364) _(2026-04-24)_
 
 ---
 
@@ -1101,12 +1241,10 @@
 - [@obuhdaniel](https://github.com/obuhdaniel)
 - [@marcusxart](https://github.com/marcusxart)
 - [@nyuiela](https://github.com/nyuiela)
-- [@PatrickKish1](https://github.com/PatrickKish1)
 - [@padom2020](https://github.com/padom2020)
 - [@T-laye](https://github.com/T-laye)
 - [@egokiemute](https://github.com/egokiemute)
 - [@arewageek](https://github.com/arewageek)
-- [@dannyswiss1](https://github.com/dannyswiss1)
 - [@greatAdams01](https://github.com/greatAdams01)
 - [@Akinbola247](https://github.com/Akinbola247)
 - [@Xlaez](https://github.com/Xlaez)
@@ -1124,11 +1262,3 @@
 - [@nerdjango](https://github.com/nerdjango)
 - [@davife2025](https://github.com/davife2025)
 - [@mark8nigeria](https://github.com/mark8nigeria)
-
----
-
-## Official Stellar Repos (All Time)
-
-> Searched 143 repos across the `stellar`, `AhaLabs`, and `nictoarch` GitHub orgs.
-
-No contributions (open or merged PRs) were found from any Builders Circle member in official Stellar repositories for all time (as of March 2026).

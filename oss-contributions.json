@@ -3,7 +3,20 @@
   "obuhdaniel": [],
   "marcusxart": [],
   "nyuiela": [],
-  "PatrickKish1": [],
+  "PatrickKish1": [
+    {
+      "url": "https://github.com/safetrustcr/backend-SafeTrust/pull/351",
+      "title": "feat: PATCH /api/bid-requests/:id accept/reject offer (closes #345)",
+      "repo": "safetrustcr/backend-SafeTrust",
+      "merged_at": "2026-04-28T22:10:21Z"
+    },
+    {
+      "url": "https://github.com/akkuea/akkuea/pull/792",
+      "title": "fix(api): remove N+1 on property listing (join owner)",
+      "repo": "akkuea/akkuea",
+      "merged_at": "2026-04-24T02:01:20Z"
+    }
+  ],
   "padom2020": [],
   "T-laye": [],
   "egokiemute": [],
@@ -22,7 +35,14 @@
     }
   ],
   "arewageek": [],
-  "dannyswiss1": [],
+  "dannyswiss1": [
+    {
+      "url": "https://github.com/lernza/lernza/pull/825",
+      "title": "feat: lernza docs and features modification",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-04-28T16:11:20Z"
+    }
+  ],
   "arowolokehinde": [
     {
       "url": "https://github.com/Jagadeeshftw/grainlify/pull/901",
@@ -59,6 +79,24 @@
       "title": "Tests for Grace Period and Cancellation System",
       "repo": "Stellopay/stellopay-core",
       "merged_at": "2026-01-24T08:58:42Z"
+    },
+    {
+      "url": "https://github.com/rinafcode/teachLink_contract/pull/464",
+      "title": "fix(errors): standardize error handling patterns across modules",
+      "repo": "rinafcode/teachLink_contract",
+      "merged_at": "2026-04-27T12:59:29Z"
+    },
+    {
+      "url": "https://github.com/rinafcode/teachLink_contract/pull/412",
+      "title": "Fix/vector memory safety 248",
+      "repo": "rinafcode/teachLink_contract",
+      "merged_at": "2026-04-24T08:26:38Z"
+    },
+    {
+      "url": "https://github.com/rinafcode/teachLink_contract/pull/411",
+      "title": "feat(tests): add comprehensive cross-module integration tests (#275)",
+      "repo": "rinafcode/teachLink_contract",
+      "merged_at": "2026-04-24T08:25:36Z"
     }
   ],
   "greatAdams01": [],
@@ -86,6 +124,12 @@
       "title": "feat(shared): implement global pagination and integrate with policies, claims, and DAO",
       "repo": "steller-secure/Stellar-Insured-Backend",
       "merged_at": "2026-01-29T12:38:37Z"
+    },
+    {
+      "url": "https://github.com/Stellopay/stellopay-core/pull/430",
+      "title": "feat: add deterministic rule evaluation traces for audits",
+      "repo": "Stellopay/stellopay-core",
+      "merged_at": "2026-04-26T08:27:20Z"
     }
   ],
   "Belloabraham121": [
@@ -150,6 +194,12 @@
       "title": "Feature/reputation system",
       "repo": "rinafcode/teachLink_contract",
       "merged_at": "2026-01-26T10:43:18Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/Paymesh-stellr/pull/274",
+      "title": "Payment group tests and create/remove entrypoints",
+      "repo": "Web3Novalabs/Paymesh-stellr",
+      "merged_at": "2026-04-23T22:47:06Z"
     }
   ],
   "Uchechukwu-Ekezie": [
@@ -240,6 +290,18 @@
       "title": "#208 Implement Password Reset Flow",
       "repo": "SafeVault/vestroll",
       "merged_at": "2026-02-24T09:26:39Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/830",
+      "title": "feat: lighthouse ci for tracking",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-04-28T22:09:56Z"
+    },
+    {
+      "url": "https://github.com/Nexacore-Org/ByteChain-Academy/pull/304",
+      "title": "feat(backend): add comprehensive Swagger/OpenAPI decorators to controllers and DTOs",
+      "repo": "Nexacore-Org/ByteChain-Academy",
+      "merged_at": "2026-04-28T09:25:44Z"
     }
   ],
   "ogazboiz": [
@@ -320,6 +382,12 @@
       "title": "feat: Add email verification modal flow and update Privacy & Security section",
       "repo": "StreamFi-x/streamfi-frontend",
       "merged_at": "2025-06-11T09:36:45Z"
+    },
+    {
+      "url": "https://github.com/lernza/lernza/pull/823",
+      "title": "feat(contracts): platform stats, refund_unused_pool, certificate metadata update, owner-gated revocation",
+      "repo": "lernza/lernza",
+      "merged_at": "2026-04-28T15:06:19Z"
     }
   ],
   "Birdmannn": [
@@ -475,6 +543,24 @@
       "title": "feat: add mobile video player component with controls and picture-in-…",
       "repo": "rinafcode/teachLink_mobile",
       "merged_at": "2026-01-23T20:42:03Z"
+    },
+    {
+      "url": "https://github.com/safetrustcr/frontend-SafeTrust/pull/335",
+      "title": "feat(auth): add dark mode support to ForgotPasswordForm",
+      "repo": "safetrustcr/frontend-SafeTrust",
+      "merged_at": "2026-04-29T18:18:16Z"
+    },
+    {
+      "url": "https://github.com/Facil-Pay/facilpay-contracts/pull/159",
+      "title": "feat(refund): add structured refund reason codes and analytics",
+      "repo": "Facil-Pay/facilpay-contracts",
+      "merged_at": "2026-04-26T16:19:59Z"
+    },
+    {
+      "url": "https://github.com/safetrustcr/dApp-SafeTrust/pull/93",
+      "title": "Feat/hotel listing route placeholder",
+      "repo": "safetrustcr/dApp-SafeTrust",
+      "merged_at": "2026-04-03T22:16:06Z"
     }
   ],
   "WilliamsScripts": [],
@@ -630,6 +716,12 @@
       "title": "fix: Improve Information About Assets #89",
       "repo": "soroswap/info",
       "merged_at": "2024-11-26T13:28:10Z"
+    },
+    {
+      "url": "https://github.com/boundlessfi/bounties/pull/161",
+      "title": "feat(bounty): add FCFS single-claim flow with claim/approve UI and cl…",
+      "repo": "boundlessfi/bounties",
+      "merged_at": "2026-04-23T10:39:03Z"
     }
   ],
   "uzochukwuv": [
@@ -662,6 +754,12 @@
       "title": "feat(escrow): allow SME withdrawal after funding completion",
       "repo": "Liquifact/Liquifact-contracts",
       "merged_at": "2026-03-25T06:50:15Z"
+    },
+    {
+      "url": "https://github.com/rinafcode/teachLink_contract/pull/201",
+      "title": "Feat/issue 167 gas benchmarking",
+      "repo": "rinafcode/teachLink_contract",
+      "merged_at": "2026-04-01T11:52:17Z"
     }
   ],
   "eldevode": [],
@@ -716,6 +814,12 @@
       "title": "test(contracts): add edge case tests for all contracts",
       "repo": "lernza/lernza",
       "merged_at": "2026-03-25T21:14:03Z"
+    },
+    {
+      "url": "https://github.com/akkuea/akkuea/pull/796",
+      "title": "API TypeScript type checking silenced with || true in CI",
+      "repo": "akkuea/akkuea",
+      "merged_at": "2026-04-25T22:05:56Z"
     }
   ],
   "osas2211": [],
@@ -983,6 +1087,12 @@
       "title": "feat : landing page",
       "repo": "Web3Novalabs/predifi",
       "merged_at": "2025-02-27T19:13:32Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/Nevo/pull/364",
+      "title": "Drips issue",
+      "repo": "Web3Novalabs/Nevo",
+      "merged_at": "2026-04-24T14:33:54Z"
     }
   ],
   "Sandijigs": [
@@ -1197,6 +1307,24 @@
       "title": "feat: add Connect modal",
       "repo": "StreamFi-x/streamfi-frontend",
       "merged_at": "2025-03-25T19:10:37Z"
+    },
+    {
+      "url": "https://github.com/Facil-Pay/facilpay-contracts/pull/164",
+      "title": "feat: arbitration fee distribution",
+      "repo": "Facil-Pay/facilpay-contracts",
+      "merged_at": "2026-04-26T16:22:31Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/542",
+      "title": "feat: Extract Internal Constants to Dedicated Module",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-04-22T20:54:42Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/541",
+      "title": "feat: add get_version Query Function",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-04-22T19:23:19Z"
     }
   ],
   "rosemary21": [
@@ -1241,6 +1369,18 @@
       "title": "Implement push notification",
       "repo": "rinafcode/teachLink_mobile",
       "merged_at": "2026-01-29T06:47:14Z"
+    },
+    {
+      "url": "https://github.com/rinafcode/teachLink_mobile/pull/169",
+      "title": "No-Pre-commit-Hooks",
+      "repo": "rinafcode/teachLink_mobile",
+      "merged_at": "2026-04-28T07:16:40Z"
+    },
+    {
+      "url": "https://github.com/rinafcode/teachLink_backend/pull/380",
+      "title": "Alerting-Rules",
+      "repo": "rinafcode/teachLink_backend",
+      "merged_at": "2026-04-26T16:04:27Z"
     }
   ],
   "SamuelAdex": [],
@@ -1469,6 +1609,42 @@
       "title": "feat: Implement Escrow Initialization API Endpoint #48",
       "repo": "kindfi-org/kindfi",
       "merged_at": "2025-02-02T10:53:20Z"
+    },
+    {
+      "url": "https://github.com/Facil-Pay/facilpay-contracts/pull/175",
+      "title": "feature:partial payment, fraud detection",
+      "repo": "Facil-Pay/facilpay-contracts",
+      "merged_at": "2026-04-28T13:40:06Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/579",
+      "title": "Feature/get supported tokens",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-04-24T09:37:20Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/578",
+      "title": "feature: auto-cancel overdue pools",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-04-24T08:09:37Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/577",
+      "title": "feature: max_predictions per user",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-04-24T07:26:52Z"
+    },
+    {
+      "url": "https://github.com/Web3Novalabs/predifi/pull/576",
+      "title": "test: claim_winnings",
+      "repo": "Web3Novalabs/predifi",
+      "merged_at": "2026-04-24T04:40:32Z"
+    },
+    {
+      "url": "https://github.com/Liquifact/Liquifact-contracts/pull/138",
+      "title": "feat: Escrow single init guard",
+      "repo": "Liquifact/Liquifact-contracts",
+      "merged_at": "2026-04-01T04:24:57Z"
     }
   ],
   "idrhas": [
@@ -1668,6 +1844,24 @@
       "title": "PR Title:   Reusable Collapsible Sidebar Component #8",
       "repo": "Web3Novalabs/predifi-frontend",
       "merged_at": "2025-04-25T08:59:05Z"
+    },
+    {
+      "url": "https://github.com/safetrustcr/frontend-SafeTrust/pull/336",
+      "title": "Feat/330 adapt buildings illustration dark mode",
+      "repo": "safetrustcr/frontend-SafeTrust",
+      "merged_at": "2026-04-29T18:07:25Z"
+    },
+    {
+      "url": "https://github.com/ritik4ever/stellar-portfolio-rebalancer/pull/375",
+      "title": "Add AppErrorBoundary unit tests for fallback UI, Sentry capture, rese…",
+      "repo": "ritik4ever/stellar-portfolio-rebalancer",
+      "merged_at": "2026-04-29T09:07:25Z"
+    },
+    {
+      "url": "https://github.com/safetrustcr/frontend-SafeTrust/pull/304",
+      "title": "feat(escrow): complete dark mode audit for EscrowDashboard (#286)",
+      "repo": "safetrustcr/frontend-SafeTrust",
+      "merged_at": "2026-04-25T23:10:27Z"
     }
   ],
   "davife2025": [],
